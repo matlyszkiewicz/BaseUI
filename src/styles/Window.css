@@ -1,0 +1,10 @@
+.WindowFrame {
+    -fx-stroke: lightslategray;
+    -fx-stroke-width: 4px;
+    -fx-stroke-line-cap: round;
+}
+
+#polygon {
+    -fx-fill: black;
+    -fx-opacity: 0.3;
+}
